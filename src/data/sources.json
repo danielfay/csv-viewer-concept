@@ -1,0 +1,8 @@
+{
+    "JLRCA": {
+        "delimiter": "\t"
+    },
+    "Strathcom": {
+        "delimiter": ","
+    }
+}
